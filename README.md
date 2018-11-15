@@ -15,7 +15,7 @@ cost_of_trip
 >
 >---------------------------
 >
->Link to deployed page _(click here)_<a href="https://github.com/judejuma/Anitas_kitchen/settings" title="Title">
+>Link to deployed page _(click here)_<a href="https://github.com/judejuma/first_python" title="Title">
 Anita's Kitchen</a>
 >
 >---------------------------
