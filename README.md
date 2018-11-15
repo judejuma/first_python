@@ -1,8 +1,8 @@
-## first_python
+# first_python
 My First Python Code
-## Description
+# Description
 The code calculates the total cost of trip
-##Getting Started
+#Getting Started
 Clone the repo, save on your desktop and then open with your texteditor. Preferably, Pycharm
-##Built With
+#Built With
 python3
